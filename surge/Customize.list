@@ -1,0 +1,10 @@
+# NAME: Customize
+# AUTHOR: ezrawic4j
+# REPO: https://github.com/ezrawic4j/surge-rule
+# UPDATED: 2023-09-25 16:10:15
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,dynadot.com
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,api.termius.com
+DOMAIN-SUFFIX,mixpanel.com
