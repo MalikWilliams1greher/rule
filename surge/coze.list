@@ -3,8 +3,8 @@ DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,.byteoversea.com
 # DOMAIN-SUFFIX,ttwstatic.com
 # DOMAIN-SUFFIX,tiktokcdn.com
-# DOMAIN-SUFFIX,oceanapi-i18n.com
-# DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,oceanapi-i18n.com
+DOMAIN-SUFFIX,ciciai.com
 #www.coze.com
 #sf-coze-web-cdn.coze.com
 #mcs-va.coze.com
