@@ -1,16 +1,16 @@
 payload:
-DOMAIN-SUFFIX,dynadot.com
-DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,imgur.com
-DOMAIN-SUFFIX,mixpanel.com
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,nodeseek.com
-DOMAIN-SUFFIX,svip.pw
-DOMAIN-SUFFIX,tizz.yt
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN-SUFFIX,pikpak.me
-DOMAIN-SUFFIX,pikpakdrive.com
-DOMAIN-KEYWORD,pikpak
-DOMAIN-SUFFIX,vmiss.com
-DOMAIN-SUFFIX,uscellular.com
+  - +.dynadot.com
+  - +.termius.com
+  - +.imgur.com
+  - +.mixpanel.com
+  - +.micu.hk
+  - +.nodeseek.com
+  - +.svip.pw
+  - +.tizz.yt
+  - +.mypikpak.com
+  - +.mypikpak.net
+  - +.pikpak.me
+  - +.pikpakdrive.com
+  - +.pikpak
+  - +.vmiss.com
+  - +.uscellular.com
