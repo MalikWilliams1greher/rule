@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
