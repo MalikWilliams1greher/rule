@@ -1,3 +1,4 @@
 payload:
   - PROCESS-NAME,parsec
+  - PROCESS-NAME,parsec.app
   - PROCESS-NAME,parsec.exe
